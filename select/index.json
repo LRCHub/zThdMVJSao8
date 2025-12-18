@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SAVOTINA!!",
+  "base_artist": "優木せつ菜 (CV.林 鼓子)、ミア・テイラー (CV.内田 秀)",
+  "createdAt": "2025-12-18T09:37:23.140631Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAVOTINA!!",
+      "artist": "優木せつ菜 (CV.林 鼓子)、ミア・テイラー (CV.内田 秀)",
+      "has_synced": false,
+      "path": "select/pl_01_SAVOTINA!!_優木せつ菜_(CV.林_鼓子)、ミア・テイラー_(CV.内田_秀).txt"
+    }
+  ]
+}
